@@ -1,0 +1,118 @@
+h2{
+font-size: 36px;
+color: #452268;
+margin-top: 57px;
+margin-left: 139px;
+width: 131px;
+height: 36px;
+background: transparent url('img/Victorya..png') 0% 0% no-repeat padding-box;
+opacity: 0.78;
+text-align: left;
+
+}
+
+h4{
+font: Muli;
+color: #ABADAE;
+word-spacing: 20px;
+margin-top: 0px;
+margin-left: 396px;
+width: 351px;
+height: 20px;
+background: transparent url('img/Menu Package About us Contact us.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.h42{
+	word-spacing: normal;
+}
+
+
+#h41{
+	color: #452268;
+}
+
+#p1{
+font-size: 57px;
+text-align: left;
+color: #255A7E;
+margin-top: 193px;
+margin-left: 139px;
+width: 550px;
+height: 156px;
+text-align: left;
+background: transparent url('img/Good food choices are good investments..png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+
+body{
+	background-image: url("https://lh3.googleusercontent.com/fPD-u00Rehn1kodK_SWcZZPKqr1BJH0pAZWc4gqpiOBAXPV2aTKFL9nvh_m2oxQ3SQV4Au0mgo-xZgEBkCiD5ZgCSJfkubS5UsVC_B4czjI8gQOH9nGD_JPodi9b0LYlbYUIzDIKsT_1Ify4YxN5q4yzWUYV_HBAZx0FSlQ9jqEYr-fqs0VOh5pgS0l5Odfg1Y2ivhtCiD4TAZ2zLD2qLajTjTltvyqjelnCvoXxwo1HzyWYzAALDTTywQiqp2THD7LiWBC-SJEq7dD310fBWm0iXVIF0_C6QRiUw9lsmiexYu7S12u_ZrS3p5sN3W37_gdYO1tJYMyYzdk7Sl5RbyibjMYgvXXlVTYWB4onKzwRLxsjWUlExneRzI5VAdaF9pzjb1yH8I4xcL9VkHF3TlRHqJkCqavo7EAm0dGnQJKdq_HTfKFEQM84nvP1cX_azQMuwhuOz-I3gNkozqGU7gdn70M7JKOKAieDlvPDTnSXJCv_oxSIvJQ0eQSTGfm4JyeE1FKdgpxviS32e2BDA-B6gdWwJ-TzUR3u0qh7mH7MS7hqkAMUJW9O7hBLpTUlQVS62DyUfSzuN31dr1rNXcs5rfxxGBONhdO-ooNVPxGcr9B68ypg7heYM6gD01wcMlp38b1n38WWgXXB5uYdqaMZ0sFPoKdTnaR8HuKc2GM5rfgX8Wyr4rPWYxrqKw=w1006-h581-no?authuser=0");
+	width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#p2{
+	font-weight: bold;
+	font-family: Muli;
+	font-size: 16px ;
+	text-align: left;
+	color: #0C3653;
+	margin-top: 26px;
+margin-left: 139px;
+width: 600px;
+height: 65px;
+background: transparent url('img/There is a powerful need for symbolism, and that means the architecture must have something that appeals to the human heart..png') 0% 0% no-repeat padding-box;
+opacity: 0.71;
+
+}
+
+#order1{
+background-color: #F98169;
+color: white;
+margin-top: 41px;
+margin-left: 139px;
+margin-bottom: 151px;
+width: 204px;
+height: 70px;
+box-shadow: 0px 15px 29px #F98169AD;
+opacity: 1;
+font-size: 18px;
+font-width: 100px;
+font-height: 26px;
+border: 0px;
+
+}
+
+#text1{
+color: #0B314B;
+font-size: 18px;
+margin-top: 64px;
+margin-left: 40px;
+width: 167px;
+height: 24px;
+background: transparent url('img/Watch our story.png') 0% 0% no-repeat padding-box;
+opacity: 0.51;
+}
+
+#order2{
+background-color: #F98169;
+color: white;
+margin-top: 46px;
+margin-left: 11px;
+width: 62px;
+height: 60px;
+box-shadow: 0px 15px 29px #F98169AD;
+border-radius: 83px;
+opacity: 1;
+font-size: 18px;
+font-width: 33px;
+font-height: 18px;
+border: 0px;
+
+
+}
